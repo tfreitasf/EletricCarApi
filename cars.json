@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "modelName": "Model 3"
+    "modelName": "Model 3",
     "preco": "$ 40,240",
     "bateria": "85 kWh",
     "potencia": "825 cv",
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "modelName": "Model S"
+    "modelName": "Model S",
     "preco": "$ 88,490",
     "bateria": "100 kWh",
     "potencia": "825 cv",
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "modelName": "Model X"
+    "modelName": "Model X",
     "preco": "$ 88,490",
     "bateria": "100 kWh",
     "potencia": "200 cv",
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "modelName": "Model Y"
+    "modelName": "Model Y",
     "preco": "$ 50,490",
     "bateria": "78 kWh",
     "potencia": "200 cv",
