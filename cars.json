@@ -1,34 +1,34 @@
 [
   {
     "id": 1,
-    "preco": "Preço carro 1",
-    "bateria": "Bateria carro 1",
-    "potencia": "Potencia carro 1",
-    "recarga": "Recarga carro 1",
+    "preco": "$ 40,240",
+    "bateria": "85 kWh",
+    "potencia": "825 cv",
+    "recarga": "30 min",
     "urlPhoto": "https://tfreitasf.github.io/EletricCarApi/img/model3.png"
   },
   {
     "id": 2,
-    "preco": "Preço carro 2",
-    "bateria": "Bateria carro 2",
-    "potencia": "Potencia carro 2",
-    "recarga": "Recarga carro 2",
+    "preco": "$ 88,490",
+    "bateria": "100 kWh",
+    "potencia": "825 cv",
+    "recarga": "30 min",
     "urlPhoto": "https://tfreitasf.github.io/EletricCarApi/img/models.png"
   },
   {
     "id": 3,
-    "preco": "Preço carro 3",
-    "bateria": "Bateria carro 3",
-    "potencia": "Potencia carro 3",
-    "recarga": "Recarga carro 3",
+    "preco": "$ 88,490",
+    "bateria": "100 kWh",
+    "potencia": "200 cv",
+    "recarga": "30 min",
     "urlPhoto": "https://tfreitasf.github.io/EletricCarApi/img/modelx.png"
   },
   {
     "id": 4,
-    "preco": "Preço carro 4",
-    "bateria": "Bateria carro 4",
-    "potencia": "Potencia carro 4",
-    "recarga": "Recarga carro 4",
+    "preco": "$ 50,490",
+    "bateria": "78 kWh",
+    "potencia": "200 cv",
+    "recarga": "30 min",
     "urlPhoto": "https://tfreitasf.github.io/EletricCarApi/img/modely.png"
   }
   
